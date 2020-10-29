@@ -3639,7 +3639,7 @@ input, select, textarea {
 		}
 
 		#nav input, #nav select, #nav textarea {
-			color: #ffffff;
+			color: #000000;
 		}
 
 		#nav a {
@@ -3717,7 +3717,7 @@ input, select, textarea {
 					}
 
 				#nav ul.links li.active {
-					background-color: #ffffff;
+					background-color: #000000;
 				}
 
 					#nav ul.links li.active a {
